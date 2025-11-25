@@ -114,7 +114,6 @@ Page 1 — Driver Performance Overview
 
 Page 2 — Operational & Marketplace Analytics
 ![Marketplace Analytics](https://github.com/manasa-dumpala2003/RideIT-Data-Analysis-Dashboard/blob/main/rideit2.png)
-
 Page 3 — Aggregated Metrics & Tenure Table
 ![Tenure & Day-of-week Analysis](https://github.com/manasa-dumpala2003/RideIT-Data-Analysis-Dashboard/blob/main/rideit3.png)
 
